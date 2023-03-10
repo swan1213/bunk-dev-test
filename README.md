@@ -11,5 +11,6 @@
 
 ## Running Tests
 
-Run server-side tests with `npm test` from the project root. <br/>
-Run E2E tests with the `npm run e2e` command from project root.
+Run E2E tests with the `npm run e2e` command from project root.<br/>
+Run server-side tests with `npm test` from the project root. 
+
